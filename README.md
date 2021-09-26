@@ -1,11 +1,15 @@
 # Um API-REST com criptografia para login usando JWT
-
-## Tecnologias aplicadas:
-<div style="display=inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
+<br>
+<h2>Tecnologias aplicadas:</h2>
+<br>
+<div style="display=inline-block margin-top:20px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px" >
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript"width="50px" height="50px" >
+  <img src="http://jwt.io/img/logo-asset.svg" alt="jwt" width="100px" height="40px" >
 </div>
+
+<br><br>
 
 ## Código Estruturado em:
 
@@ -14,6 +18,7 @@
 - Folder: Routes > Definir e proteger as rotas.
 
 ### Através do recurso dotenv, conseguimos utilizar variáveis de ambiente para auxilio no desenvolvimento.
+<br>
 
 ### Obs Finais:
 - Para a criptografia dos dados foi utilizado o módulo bcrypt;
