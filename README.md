@@ -1,10 +1,11 @@
 # Um API-REST com criptografia para login usando JWT
 
 ## Tecnologias aplicadas:
-
+<div style="display=inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px" >
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript"width="50px" height="50px" >
+</div>
 
 ## Código Estruturado em:
 
