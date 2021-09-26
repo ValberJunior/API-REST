@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px" >
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript"width="50px" height="50px" >
-  <img src="http://jwt.io/img/logo-asset.svg" alt="jwt" width="100px" height="40px" >
+ <img src="http://jwt.io/img/logo-asset.svg" alt="jwt" width="110px" height="50px" >
 </div>
 
 <br><br>
