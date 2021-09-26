@@ -1,13 +1,13 @@
 const User = require('../models/User');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const {loginValidate, registerValidate} = require('./validate');
+const {loginValidate, registerValidate} = require('./validate'); //validar os dados do front
 
 
 const userController = {
     register: async  function (req, res){
 
-        //validar as informações digitadas
+        //validar as informações digitadas no front
         const {error} = registerValidate(req.body);
         if (error){
             return res.status(400).send(error.message);
@@ -20,7 +20,7 @@ const userController = {
          return res.status(400).send('Email already exists!')
         }
         
-        //Vou pegar os dados que vem no body através do obj json e salvar no user(modelo);
+        //Pegar os dados que vem no body através do obj json e salvar no user(modelo);
 
         const user = new User({
             name: req.body.name,
